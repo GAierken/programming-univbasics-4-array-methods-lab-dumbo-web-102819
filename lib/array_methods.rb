@@ -5,7 +5,9 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-
+  context_one=["wow", "I", "am", "really", "learning", "arrays!"]
+  sort_context=context_one.sort
+  p sort_context
 end
 
 def using_reverse(array)
