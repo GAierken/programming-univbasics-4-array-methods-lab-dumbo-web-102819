@@ -28,5 +28,7 @@ def using_last(array)
 end
 
 def using_size(array)
+  context_one=["wow", "I", "am", "really", "learning", "arrays!"]
+  context_one.size
 
 end
