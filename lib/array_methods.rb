@@ -22,6 +22,8 @@ def using_first(array)
 end
 
 def using_last(array)
+  context_one=["wow", "I", "am", "really", "learning", "arrays!"]
+  context_one.last
 
 end
 
