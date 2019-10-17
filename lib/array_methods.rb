@@ -17,6 +17,7 @@ end
 
 def using_first(array)
   context_one=["wow", "I", "am", "really", "learning", "arrays!"]
+  context_one.first
 
 end
 
