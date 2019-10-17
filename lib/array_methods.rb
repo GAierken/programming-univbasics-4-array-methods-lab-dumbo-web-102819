@@ -10,8 +10,8 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-context_one=["wow", "I", "am", "really", "learning", "arrays!"]
-context_one.reverse
+  context_one=["wow", "I", "am", "really", "learning", "arrays!"]
+  context_one.reverse
 end
 
 def using_first(array)
