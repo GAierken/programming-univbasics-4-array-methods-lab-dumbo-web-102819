@@ -1,8 +1,7 @@
-  def using_include(array, element)
+def using_include(array, element)
   array.include?(element)
 end
 
-end
 
 def using_sort(array)
   context_one=["wow", "I", "am", "really", "learning", "arrays!"]
