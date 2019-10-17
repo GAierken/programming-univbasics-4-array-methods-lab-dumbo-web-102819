@@ -12,7 +12,7 @@ end
 
 def using_reverse(array)
 context_one=["wow", "I", "am", "really", "learning", "arrays!"]
-
+context_one.reverse
 end
 
 def using_first(array)
