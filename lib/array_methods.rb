@@ -1,7 +1,6 @@
-def using_include(array, element)
-  context_one=["wow", "I", "am", "really", "learning", "arrays!"]
-  context_one.include?("Tardis")
-  context_one.include?("wow")
+  def using_include(array, element)
+  array.include?(element)
+end
 
 end
 
